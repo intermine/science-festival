@@ -17,7 +17,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="science1_rachel.svg">
+   sodipodi:docname="sharing-data-inkscape-version.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.74709481"
-     inkscape:cx="440.11038"
-     inkscape:cy="557.39211"
+     inkscape:zoom="1.4941896"
+     inkscape:cx="231.82156"
+     inkscape:cy="654.98405"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1434"
-     inkscape:window-height="992"
-     inkscape:window-x="281"
-     inkscape:window-y="40"
+     inkscape:window-width="1844"
+     inkscape:window-height="1001"
+     inkscape:window-x="36"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -94,7 +94,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <rect
-       y="69.650146"
+       y="59.650146"
        x="69.66082"
        height="1.4285438"
        width="205.71425"
@@ -104,7 +104,7 @@
        inkscape:connector-curvature="0"
        id="path4138"
        d="M 0,529.11121 0,0.11125096 l 372.25001,0 372.24999,0 0,528.99995904 0,528.99999 -372.24999,0 -372.25001,0 0,-528.99999 z"
-       style="opacity:0.56999966;fill:#a27600;fill-opacity:0.20809248;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.56999966;fill:#e4d8b5;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="19.219349"
        x="25.428579"
@@ -135,7 +135,7 @@
            id="rect5262" /></flowRegion><flowPara
          style="font-size:15px;line-height:1.25"
          id="flowPara5264"> </flowPara></flowRoot>    <flowRoot
-       transform="matrix(1.4788644,0,0,1.1556231,892.67143,-115.30554)"
+       transform="matrix(1.4788644,0,0,1.1556231,892.67143,-125.30554)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5266"
        xml:space="preserve"><flowRegion
@@ -148,7 +148,7 @@
            id="rect5270" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:38.24703217px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="flowPara5272">Sharing Data Is Important</flowPara></flowRoot>    <rect
-       y="149.21938"
+       y="139.21938"
        x="69.714355"
        height="1.4285438"
        width="611.42853"
@@ -162,7 +162,7 @@
        id="rect5313"
        style="fill:none;fill-opacity:0.39215686;stroke:none;stroke-width:11.80000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       y="989.50507"
+       y="969.50507"
        x="66.857216"
        height="1.4285438"
        width="611.42853"
@@ -181,7 +181,7 @@
          style="font-size:15px;line-height:1.25"
          id="flowPara9413"> </flowPara></flowRoot>    <g
        id="g4680"
-       transform="matrix(0.41389113,0,0,-0.41389113,300.96483,97.794945)">
+       transform="matrix(0.41389113,0,0,-0.41389113,300.96483,87.794945)">
       <path
          d="m 66.895,91.987 8.683,0 0,-41.35 -8.683,0 0,41.35 z"
          style="fill:#c0d848;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -311,7 +311,7 @@
     </g>
     <g
        id="g7884"
-       transform="translate(-1.357605,5.0523987)">
+       transform="translate(-1.357605,-4.9476013)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-9"
@@ -358,7 +358,7 @@
     </g>
     <g
        id="g7872"
-       transform="translate(4.5793991,4)">
+       transform="translate(4.5793991,-6)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362"
@@ -405,7 +405,7 @@
     </g>
     <g
        id="g7860"
-       transform="translate(3.7404175,5.8876953)">
+       transform="translate(3.7404175,-4.1123047)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-4"
@@ -446,7 +446,7 @@
     </g>
     <g
        id="g7897"
-       transform="translate(-2.7477417,3.8042602)">
+       transform="translate(-2.7477417,-6.1957398)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-8"
@@ -488,7 +488,7 @@
       </g>
     </g>
     <rect
-       y="69.543694"
+       y="59.543694"
        x="475.16589"
        height="1.4285438"
        width="205.71425"
@@ -496,7 +496,7 @@
        style="fill:none;fill-opacity:0.39215686;stroke:#980000;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g7849"
-       transform="translate(5.6679459,0.4344482)">
+       transform="translate(5.6679459,-9.5655518)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-7"
@@ -537,7 +537,7 @@
            style="font-size:15px;line-height:1.25">internationally too!</flowPara></flowRoot>    </g>
     <g
        id="g7959"
-       transform="translate(1.4710999,3.3581543)">
+       transform="translate(1.4710999,-6.6418457)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96"
@@ -585,7 +585,7 @@
            id="flowPara4523">by existing data sets</flowPara></flowRoot>    </g>
     <g
        id="g7820"
-       transform="translate(0.37348175,-1.8079834)">
+       transform="translate(0.37348175,-11.807983)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-0"
@@ -666,7 +666,7 @@
            style="font-size:15px;line-height:1.25">results</flowPara></flowRoot>    </g>
     <g
        id="g7801"
-       transform="translate(3.2117004,4.2550964)">
+       transform="translate(3.2117004,-5.7449036)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-0"
@@ -811,7 +811,7 @@
          sodipodi:role="line" /></text>
     <g
        id="g7907"
-       transform="translate(1.4561768,3.8905029)">
+       transform="translate(1.4561768,-6.1094971)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-1"
@@ -1014,7 +1014,7 @@
          sodipodi:role="line" /></text>
     <g
        id="g7924"
-       transform="translate(3.7670898,0.1738892)">
+       transform="translate(3.7670898,-9.8261108)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-9"
@@ -1058,7 +1058,7 @@
     </g>
     <g
        id="g7787"
-       transform="translate(2.0442123,-0.6544189)">
+       transform="translate(2.0442123,-10.654419)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-9-1"
@@ -1082,7 +1082,7 @@
            transform="matrix(0.02566568,0,0,0.02566568,79.404098,700.02801)">
           <polygon
              id="polygon5623"
-             points="369.84,584.327 304.54,573.327 304.54,593.228 282.34,593.228 282.34,624.127 297.64,624.127 191.84,931.327 239.44,931.327 337.14,647.627 434.84,931.327 484.84,931.327 369.84,603.627 " />
+             points="297.64,624.127 191.84,931.327 239.44,931.327 337.14,647.627 434.84,931.327 484.84,931.327 369.84,603.627 369.84,584.327 304.54,573.327 304.54,593.228 282.34,593.228 282.34,624.127 " />
           <path
              id="path5625"
              d="m 930.54,347.127 c 0,0 -181.8,-96 -184.1,-96.7 -15,-8.2 -32.2,-12.9 -50.5,-12.9 l 0,0 c -29.9,0 -56.9,12.4 -76.101,32.4 l -104.8,100 -82,-47.9 c -16.7,-9.8 -38.1,-4.1 -47.9,12.6 -9.8,16.7 -4.1,38.1 12.601,47.9 l 104.8,61.2 c 5.5,3.2 11.6,4.8 17.6,4.8 8.801,0 17.5,-3.3 24.2,-9.7 l 46.2,-44 0,69.3 -12.6,34.2 12.6,20.601 0,0 c 4,6.6 5.3,14.3 3.5,21.8 l -3.5,14.7 -8,34 c -1.9,8.1 -7.2,15 -14.6,19 l -20,10.6 c -3.5,1.8 -7.4,2.8 -11.301,2.8 -1.399,0 -2.8,-0.1 -4.199,-0.399 l -25.7,69.5 c -2.9,7.8 2.899,16.199 11.3,16.199 l 72.6,0 0,188 c 0,26 21.101,47 47,47 26,0 47,-21.1 47,-47 l 0,-188 5.601,0 17.1,0 0,188 c 0,26 21.101,47 47,47 26,0 47,-21.1 47,-47 l 0,-188 72.601,0 c 8.399,0 14.199,-8.3 11.3,-16.199 l -59.8,-161.9 0,0 c 10.5,0 20.899,-4.7 27.8,-13.7 l 88.7,-116 c 6.3,-8.2 8.6,-18.7 6.399,-28.7 -2.201,-10.102 -8.701,-18.702 -17.801,-23.502 z m -128.2,119.5 -1,-2.6 0,-106.1 59.9,31.7 -58.9,77 z"
@@ -1093,7 +1093,7 @@
              inkscape:connector-curvature="0" />
           <polygon
              id="polygon5629"
-             points="105.54,374.127 76.54,514.327 304.54,553.027 369.84,564.027 514.14,588.527 532.94,508.827 " />
+             points="532.94,508.827 105.54,374.127 76.54,514.327 304.54,553.027 369.84,564.027 514.14,588.527 " />
           <path
              id="path5631"
              d="m 533.94,602.027 c 0.8,0.5 1.699,0.8 2.6,0.8 0.5,0 1.1,-0.1 1.6,-0.3 0.2,-0.1 0.5,-0.2 0.7,-0.3 l 0.7,-0.4 10.7,-5.7 8.7,-4.6 c 2.5,-1.4 4.399,-3.7 5,-6.5 l 11.5,-48.8 c 0.6,-2.601 0.199,-5.3 -1.2,-7.5 l -4.8,-7.9 -0.7,-1.2 -7.3,-11.899 0,0 c -1,-1.601 -2.601,-2.4 -4.2,-2.4 -0.5,0 -0.9,0.101 -1.4,0.2 -1.6,0.5 -3,1.7 -3.5,3.7 l -1.3,5.3 -18.2,77.1 -1.2,4.9 c -0.5,2.4 0.6,4.499 2.3,5.499 z"
@@ -1192,7 +1192,7 @@
            id="rect2233" /></flowRegion><flowPara
          id="flowPara2235" /></flowRoot>    <g
        id="g7950"
-       transform="translate(0.7278442,2.0078735)">
+       transform="translate(0.7278442,-7.9921265)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-9-8-6"
@@ -1239,7 +1239,7 @@
     </g>
     <g
        id="g7941"
-       transform="translate(0.375,-1.6373291)">
+       transform="translate(0.375,-11.637329)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-9-8"
@@ -1285,7 +1285,7 @@
     </g>
     <g
        id="g7779"
-       transform="translate(-1.6684036,3.9741211)">
+       transform="translate(-1.6684036,-6.0258789)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-9-9-4"
@@ -1328,7 +1328,7 @@
     </g>
     <g
        id="g7762"
-       transform="translate(0,4)">
+       transform="translate(0,-6)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-9-9"
@@ -1375,7 +1375,7 @@
     </g>
     <g
        id="g7933"
-       transform="translate(6,-1.8288574)">
+       transform="translate(6,-11.828857)">
       <rect
          style="opacity:0.81999966;fill:#ffffff;fill-opacity:0.39215686;stroke:#000000;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9362-96-9-3"
@@ -1411,5 +1411,40 @@
            y="716.65448"
            style="stroke-width:0.9375">Increased impact of science</tspan></text>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6342"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion6344"><rect
+           id="rect6346"
+           width="617.72614"
+           height="26.101105"
+           x="62.910355"
+           y="981.42072" /></flowRegion><flowPara
+         id="flowPara6348" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.910355"
+       y="992.79816"
+       id="text6350"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6352"
+         x="62.910355"
+         y="992.79816"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6354"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion6356"><rect
+           id="rect6358"
+           width="616.65894"
+           height="30.287209"
+           x="62.910355"
+           y="986.10895" /></flowRegion><flowPara
+         id="flowPara6360"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:12.5px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle">Poster text and design by InterMine (Micklem Group, Department of Genetics, University of Cambridge). www.intermine.org </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:12.5px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="flowPara6362">Licence CC0 (public domain, free to re-use). </flowPara></flowRoot>  </g>
 </svg>
